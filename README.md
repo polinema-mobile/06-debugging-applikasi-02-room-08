@@ -8,10 +8,10 @@ Features -
 
 Room 8
 
-Nama  : Dimas Nugraha Dwi Putra
+Nama  : DIMAS NUGRAHA DWI PUTRA
 Absen : 11
 NIM   : 1841720171
 
-Nama  : 
-Absen : 
-NIM   : 
+Nama  : RIO FEBRIANDISTRA ADI
+Absen : 27
+NIM   : 1841720109
